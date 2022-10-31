@@ -1,0 +1,1093 @@
+fileFormatVersion: 2
+guid: a91c0640d77e56b4f9fb3a309d4c2a95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8012715630269001397
+    second: pngkit_realistic-explosion-png_3897054_0
+  - first:
+      213: 6060091014212386369
+    second: pngkit_realistic-explosion-png_3897054_1
+  - first:
+      213: -3624677487755475071
+    second: pngkit_realistic-explosion-png_3897054_2
+  - first:
+      213: -6556978551241257673
+    second: pngkit_realistic-explosion-png_3897054_3
+  - first:
+      213: 9148256353565850614
+    second: pngkit_realistic-explosion-png_3897054_4
+  - first:
+      213: -550416073977409298
+    second: pngkit_realistic-explosion-png_3897054_5
+  - first:
+      213: 671092802014670091
+    second: pngkit_realistic-explosion-png_3897054_6
+  - first:
+      213: 2510170462902586651
+    second: pngkit_realistic-explosion-png_3897054_7
+  - first:
+      213: 6301684765005249314
+    second: pngkit_realistic-explosion-png_3897054_8
+  - first:
+      213: 4545082056862422441
+    second: pngkit_realistic-explosion-png_3897054_9
+  - first:
+      213: -4357984419870642139
+    second: pngkit_realistic-explosion-png_3897054_10
+  - first:
+      213: -3499666009204947507
+    second: pngkit_realistic-explosion-png_3897054_11
+  - first:
+      213: -7751847145795639177
+    second: pngkit_realistic-explosion-png_3897054_12
+  - first:
+      213: 7287493747528661541
+    second: pngkit_realistic-explosion-png_3897054_13
+  - first:
+      213: 6614496273585813887
+    second: pngkit_realistic-explosion-png_3897054_14
+  - first:
+      213: -2081096733405563482
+    second: pngkit_realistic-explosion-png_3897054_15
+  - first:
+      213: 9123759696742342188
+    second: pngkit_realistic-explosion-png_3897054_16
+  - first:
+      213: -7414295247530382171
+    second: pngkit_realistic-explosion-png_3897054_17
+  - first:
+      213: -206538264001160423
+    second: pngkit_realistic-explosion-png_3897054_18
+  - first:
+      213: 1126661469543117605
+    second: pngkit_realistic-explosion-png_3897054_19
+  - first:
+      213: -660816804902337800
+    second: pngkit_realistic-explosion-png_3897054_20
+  - first:
+      213: 3865509834724581141
+    second: pngkit_realistic-explosion-png_3897054_21
+  - first:
+      213: 9087166516829677052
+    second: pngkit_realistic-explosion-png_3897054_22
+  - first:
+      213: -154166038815136247
+    second: pngkit_realistic-explosion-png_3897054_23
+  - first:
+      213: -7389772905201011795
+    second: pngkit_realistic-explosion-png_3897054_24
+  - first:
+      213: -6081173079453639239
+    second: pngkit_realistic-explosion-png_3897054_25
+  - first:
+      213: 889044448264675972
+    second: pngkit_realistic-explosion-png_3897054_26
+  - first:
+      213: -4014952705870524279
+    second: pngkit_realistic-explosion-png_3897054_27
+  - first:
+      213: -8141692675919848358
+    second: pngkit_realistic-explosion-png_3897054_28
+  - first:
+      213: 2778374618372210071
+    second: pngkit_realistic-explosion-png_3897054_29
+  - first:
+      213: 1409958075122342279
+    second: pngkit_realistic-explosion-png_3897054_30
+  - first:
+      213: -1854039666386333165
+    second: pngkit_realistic-explosion-png_3897054_31
+  - first:
+      213: -6583911763644123819
+    second: pngkit_realistic-explosion-png_3897054_32
+  - first:
+      213: 5385639404781698424
+    second: pngkit_realistic-explosion-png_3897054_33
+  - first:
+      213: -7191280554080234829
+    second: pngkit_realistic-explosion-png_3897054_34
+  - first:
+      213: -5074441877135511723
+    second: pngkit_realistic-explosion-png_3897054_35
+  - first:
+      213: 434261041049179416
+    second: pngkit_realistic-explosion-png_3897054_36
+  - first:
+      213: -7862948194962820231
+    second: pngkit_realistic-explosion-png_3897054_37
+  - first:
+      213: 6847930503608879926
+    second: pngkit_realistic-explosion-png_3897054_38
+  - first:
+      213: 5812186382483994125
+    second: pngkit_realistic-explosion-png_3897054_39
+  - first:
+      213: -3924116119557335478
+    second: pngkit_realistic-explosion-png_3897054_40
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be676c9962e23f60800000000000000
+      internalID: 8012715630269001397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 724.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e7aa07ba4c91450800000000000000
+      internalID: 6060091014212386369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 724.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187cafc770f82bdc0800000000000000
+      internalID: -3624677487755475071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 724.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dc86d7fbee005a0800000000000000
+      internalID: -6556978551241257673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_4
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 724.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbb08c1fa225fe70800000000000000
+      internalID: 9148256353565850614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_5
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 724.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee059e73f778c58f0800000000000000
+      internalID: -550416073977409298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0de76b0953305900800000000000000
+      internalID: 671092802014670091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 604.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d8cfe8cbae5d220800000000000000
+      internalID: 2510170462902586651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 604.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bf0a0f7e4147750800000000000000
+      internalID: 6301684765005249314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_9
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 604.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a55942cc00631f30800000000000000
+      internalID: 4545082056862422441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_10
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 604.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5207cec72445583c0800000000000000
+      internalID: -4357984419870642139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_11
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 604.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc584d08e40be6fc0800000000000000
+      internalID: -3499666009204947507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778a9b98718eb6490800000000000000
+      internalID: -7751847145795639177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 484.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a735cd3f0622560800000000000000
+      internalID: 7287493747528661541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 484.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f793a33d0596bcb50800000000000000
+      internalID: 6614496273585813887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_15
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 484.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5b22e0c857e13e0800000000000000
+      internalID: -2081096733405563482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_16
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 484.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e5a5cba1b1e9e70800000000000000
+      internalID: 9123759696742342188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_17
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 484.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aca51741c12b1990800000000000000
+      internalID: -7414295247530382171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b5fad0b8a322df0800000000000000
+      internalID: -206538264001160423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_19
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 364.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523bc3223a4b2af00800000000000000
+      internalID: 1126661469543117605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_20
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 364.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2003afd9e44d6f0800000000000000
+      internalID: -660816804902337800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_21
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 364.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f998ed6bc05a530800000000000000
+      internalID: 3865509834724581141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_22
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 364.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5e47a1dc91c1e70800000000000000
+      internalID: 9087166516829677052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_23
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 364.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906aef3fdca4cddf0800000000000000
+      internalID: -154166038815136247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3ffa602b0427990800000000000000
+      internalID: -7389772905201011795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_25
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 244.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd5f7dbd455b9ba0800000000000000
+      internalID: -6081173079453639239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_26
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 244.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48269502735865c00800000000000000
+      internalID: 889044448264675972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_27
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 244.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980189049c50848c0800000000000000
+      internalID: -4014952705870524279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_28
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 244.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cd565d5a5e20f80800000000000000
+      internalID: -8141692675919848358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_29
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 244.2857
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d7905bef4ce8620800000000000000
+      internalID: 2778374618372210071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124.28571
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7895cd7266d219310800000000000000
+      internalID: 1409958075122342279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_31
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 124.28571
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3121f8d1fb02546e0800000000000000
+      internalID: -1854039666386333165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_32
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 124.28571
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555f97f422f31a4a0800000000000000
+      internalID: -6583911763644123819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_33
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 124.28571
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dfb5a1182adba40800000000000000
+      internalID: 5385639404781698424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_34
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 124.28571
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b29fd5ef60733c90800000000000000
+      internalID: -7191280554080234829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_35
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 124.28571
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fa8ff8ff5f399b0800000000000000
+      internalID: -5074441877135511723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4.285713
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8151783bd1ec60600800000000000000
+      internalID: 434261041049179416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_37
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4.285713
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97331ffb64231e290800000000000000
+      internalID: -7862948194962820231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_38
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 4.285713
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b4b2ad28cb80f50800000000000000
+      internalID: 6847930503608879926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_39
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 4.285713
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06325878b809a050800000000000000
+      internalID: 5812186382483994125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_realistic-explosion-png_3897054_40
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 4.285713
+        width: 127.333336
+        height: 120.71429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46966c1e2dba89c0800000000000000
+      internalID: -3924116119557335478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 48aa10ac46ad8e04788315b44c796d9b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
